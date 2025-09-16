@@ -26,3 +26,12 @@ h1 {
     color: #6b4226;
 }
 
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(129, 74, 173);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
